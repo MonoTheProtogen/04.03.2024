@@ -1,3 +1,2 @@
 # 04.03.2024
-
-Mono 1223
+Zmiana readme.md Lubszczyk jedzie na ryby z paprotnym
